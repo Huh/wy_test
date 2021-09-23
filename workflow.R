@@ -1,4 +1,4 @@
 # Workflow
 dat <- rnorm(100)
 
-mean(dat/2)
+print(mean(dat/2))
